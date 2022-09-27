@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+.img{
+    width: 100%;
+    height: 900px;
+}
+.text{
+    font-family: 'Oswald', sans-serif;
+    font-size: 80px;
+    color: white;
+    width: 50%;
+    position: relative;
+    bottom: 35rem;
+    left: 30rem;
+}
+.boji-img{
+    width: 15%;
+    position: relative;
+    bottom: 68rem;
+    left: 50rem;
+}
